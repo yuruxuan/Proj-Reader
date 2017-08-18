@@ -1,0 +1,15 @@
+Ver 1.0 2015-04-24
+1.Fix crash when decompile some large APP
+2.Fix download error.
+
+
+Ver 1.1 2015-04-29
+1.Fix background color when screenshot the code view
+
+
+Ver 1.3 2017-08-15
+1.Fix pad layout
+
+
+Ver 1.5 2017-08-18
+1.Fix i18n error
